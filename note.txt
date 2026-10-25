@@ -1,0 +1,6 @@
+- create frontend part (npm create vite@latest)
+- install some libraries 
+    - npm install tailwindcss @tailwindcss/vite
+    - npm install react-router-dom lucide-react
+    - npm install lucide-react (not necessary , it's for getting icons in react)
+    - npm install react-router-dom
